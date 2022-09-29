@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RohitNalluri
+- 👋 Hi, I’m RohitNalluri
 - 👀 I’m interested in Blockchain, Metaverse, Web3, NFTs, Cryptocurrency, Web3 Gaming, Physibles, Cloud, DevOps and Coding.
 - 🌱 I’m currently learning how to create Web3 applications using Solidity (ETH) and on the XRPL.
 - 💞️ I’m looking to collaborate on decentralized apps and metaverse content. I am currently developing a series of NFTs to display and share on the XRP Ledger, as well as ongoing collaboration with an NFT Project to turn them into #physibles using 3D Printing.
