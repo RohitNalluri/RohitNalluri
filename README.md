@@ -5,7 +5,7 @@
 - 📫 How to reach me rohit.k.nalluri@gmail.com
 - Here's a mind map of all my skills, interests, passions and hobbies!
 
- ![Skills Map](https://user-images.githubusercontent.com/10972267/192728563-2a84e6b7-4439-4019-bd3d-59e7c4a60d57.jpg)
+![mind_map_oct2022_v2](https://user-images.githubusercontent.com/10972267/199083992-b16dda45-10f5-4f80-8747-cfdf406d5d58.png)
 
 <!---
 RohitNalluri/RohitNalluri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
