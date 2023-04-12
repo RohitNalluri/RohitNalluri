@@ -1,6 +1,7 @@
 - 👋 Hi, I’m RohitNalluri
-- 👀 I’m interested in AI, Blockchain, Metaverse, Web3, NFTs, Cryptocurrency, Web3 Gaming, Physibles, Cloud, DevOps and Coding.
+- 👀 I’m interested in AWS, Azure, GCP (all things Cloud), AI, Blockchain, Metaverse, Web3, NFTs, Cryptocurrency, Web3, also Physibles,DevOps and Coding.
 - 🌱 I’m currently learning how to create Web3 applications using Solidity (ETH) and on the XRPL.
+- 🌱 I’m also currently learning to create ChatGPT-like interfaces using langchain and Zapier. The idea is to use OpenAI APIs and Langchain to create AWS & Azure Chatbots to create conversational AIs that can help create the best architectural patterns and solutions.
 - 💞️ I’m looking to collaborate on decentralized apps and metaverse content. I am currently developing a series of NFTs to display and share on the XRP Ledger, as well as ongoing collaboration with an NFT Project to turn them into #physibles using 3D Printing.
 - 📫 How to reach me rohit.k.nalluri@gmail.com
 - Here's a mind map of all my skills, interests, passions and hobbies!
