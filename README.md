@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Nalluri
-- 👀 I’m interested in AWS, Azure, GCP (all things Cloud), AI, Blockchain, Metaverse, Web3, NFTs, Cryptocurrency, Web3, Physibles, DevOps and Coding.
+- 👀 I’m interested in AWS, Azure, GCP (all things Cloud), AI, Blockchain, Metaverse, Web3, NFTs, Cryptocurrency, Physibles, DevOps and Coding.
 - 🌱 I’m currently learning how to create Web3 applications using Solidity (ETH) and on the XRPL.
 - 🌱 I’m also currently learning to create ChatGPT-like interfaces using langchain and Zapier. The idea is to use OpenAI APIs and Langchain to create AWS & Azure Chatbots to create conversational AIs that can help create the best architectural patterns and solutions.
 - 💞️ I run and manage Physible, a merchandize company that collaborates with NFTs/Blockchain-gaming projects to convert their metaverse objects into cool, physical merch using the power of 3D Printing!
