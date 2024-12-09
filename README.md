@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Rohit Nalluri
-- 👀 I’m interested in AWS, Azure, GCP (all things Cloud), AI, Blockchain, Metaverse, Web3, NFTs, Cryptocurrency, Physibles, DevOps and Coding.
-- 🌱 I’m currently learning how to create Web3 applications using Solidity (ETH) and on the XRPL.
-- 🌱 I’m also currently learning to create ChatGPT-like interfaces using langchain and Zapier. The idea is to use OpenAI APIs and Langchain to create AWS & Azure Chatbots to create conversational AIs that can help create the best architectural patterns and solutions.
+- 👀 I’m interested in AWS, Azure, GCP (all things Cloud), AI, Blockchain, Metaverse, Web3, NFTs, Cryptocurrency, Physibles, SaaS, DevOps and Coding.
 - 💞️ I am the founder of _Physible_, a merchandize company that collaborates with NFTs/Blockchain-gaming projects to convert their metaverse objects into cool, physical merch using the power of 3D Printing!
-- 💞️ I’m looking to collaborate on decentralized apps and metaverse content. I am currently developing a series of NFTs to display and share on the XRP Ledger, as well as ongoing collaboration with an NFT Project to turn them into #physibles using 3D Printing.
-- Also, sign up to my LinkedIn newsletter _Aithropocene - Musings on the Age of AI_ here - https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7044258442445758464
+- 💞️ I am the founder of BabelBridge, a simple webapp that lets content creators dub their content into any language in their own voice.
+- Sign up to my LinkedIn newsletter _Aithropocene - Musings on the Age of AI_ here - https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7044258442445758464 or read on my blog: https://rohitnalluri.com
 - 📫 How to reach me - https://linktr.ee/rohitnalluri
 - Here's a mind map of all my skills, interests, passions and hobbies!
 
