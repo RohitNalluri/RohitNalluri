@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rohit Nalluri
+- 👋 Hi, I’m Rohit Nalluri. I am a synthesizer, observer, voracious consumer of the written word.
 - 👀 I’m interested in AI, GenAI, RAG, AWS, Azure, GCP (all things Cloud), SaaS, Blockchain, Metaverse, Web3, NFTs, Cryptocurrency, 3D Printing, DevOps and Coding. I am interested in creating products.
 - 💞️ I am building _indian-rag_: a core RAG engine for Indian databases and Indian context. This core engine will power India-specific SaaS products such as _Nirnai_ (AI Lawyer), _Chanakya_ (AI Accountancy), _dharmadex_ (AI Sanatana Dharma), _raagam_ (AI Indian Classical Music - Hindustani and Carnatic), and _Quotable_ (beautiful quotes).
 - 💞️ I am building _BabelBridge_, a simple webapp that lets content creators dub their content into any language in their own voice.
