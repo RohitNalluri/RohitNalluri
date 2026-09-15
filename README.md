@@ -4,7 +4,7 @@
 
 I've got nearly 20 years of experience in IT across multiple technology cycles. I am based in 🏙️ Copenhagen.
 
-🚀 Building @ bitpoet
+🚀 Building @ bitpoet and Cofounder @ Arohana AI (https://arohana.studio)
 
 🔴 Active Ships
 
